@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://abidin.space/sitemap.xml
+
+# Disallow sensitive areas
+Disallow: /api/
+Disallow: /.git/
+Disallow: /node_modules/
+Disallow: /tests/
+Disallow: /.kiro/
+
+# Allow important pages
+Allow: /public/
+Allow: /css/
+Allow: /js/
+Allow: /assets/
+
+# Crawl delay
+Crawl-delay: 1
