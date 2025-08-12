@@ -1,4 +1,4 @@
-# DNS Setup for abidin.space
+# DNS Setup for abidin06.space
 
 ## GitHub Pages Custom Domain Configuration
 
@@ -43,7 +43,7 @@ TTL: 3600
 
 2. **Navigate to Domain Management**
    - Click on "Domains" in the sidebar
-   - Select "abidin.space" domain
+   - Select "abidin06.space" domain
 
 3. **Access DNS Zone Editor**
    - Click on "DNS/Nameservers"
@@ -70,33 +70,33 @@ TTL: 3600
    - Folder: / (root)
 
 3. **Custom Domain**
-   - Custom domain: abidin.space
+   - Custom domain: abidin06.space
    - Check "Enforce HTTPS" (after DNS propagation)
 
 ### Verification
 
 #### DNS Propagation Check
 - Use https://dnschecker.org
-- Enter "abidin.space" and check A records
-- Enter "www.abidin.space" and check CNAME
+- Enter "abidin06.space" and check A records
+- Enter "www.abidin06.space" and check CNAME
 
 #### Command Line Verification
 ```bash
 # Check A records
-nslookup abidin.space
+nslookup abidin06.space
 
 # Check CNAME
-nslookup www.abidin.space
+nslookup www.abidin06.space
 
 # Check with dig (Linux/Mac)
-dig abidin.space
-dig www.abidin.space
+dig abidin06.space
+dig www.abidin06.space
 ```
 
 #### Expected Results
 ```
-abidin.space → 185.199.108.153 (and other GitHub IPs)
-www.abidin.space → abidinyldz06.github.io
+abidin06.space → 185.199.108.153 (and other GitHub IPs)
+www.abidin06.space → abidinyldz06.github.io
 ```
 
 ### SSL Certificate
@@ -138,8 +138,8 @@ GitHub Pages automatically provides SSL certificate for custom domains:
 ### Final URLs
 
 After successful configuration:
-- **Primary:** https://abidin.space
-- **WWW:** https://www.abidin.space
+- **Primary:** https://abidin06.space
+- **WWW:** https://www.abidin06.space
 - **GitHub Pages:** https://abidinyldz06.github.io/abidin06.space (backup)
 
 ---

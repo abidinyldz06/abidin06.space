@@ -8,14 +8,14 @@ class ApiService {
                 {
                     id: 1,
                     username: 'admin',
-                    email: 'admin@abidin.space',
+                    email: 'admin@abidin06.space',
                     password: 'admin123', // In real app, this would be hashed
                     createdAt: new Date().toISOString()
                 },
                 {
                     id: 2,
                     username: 'demo',
-                    email: 'demo@abidin.space',
+                    email: 'demo@abidin06.space',
                     password: 'demo123',
                     createdAt: new Date().toISOString()
                 }
@@ -24,7 +24,7 @@ class ApiService {
                 {
                     id: 1,
                     userId: 1,
-                    content: 'Merhaba! Abidin.Space'e hoş geldiniz!',
+                    content: 'Merhaba! Abidin06.Space'e hoş geldiniz!',
                     timestamp: new Date(Date.now() - 3600000).toISOString(),
                     type: 'received'
                 },

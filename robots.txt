@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://abidin.space/sitemap.xml
+Sitemap: https://abidin06.space/sitemap.xml
 
 # Disallow sensitive areas
 Disallow: /api/

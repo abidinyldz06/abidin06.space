@@ -224,7 +224,7 @@ MIT License - Detaylar için LICENSE dosyasına bakın.
 
 ## 📞 İletişim
 
-- **Website:** https://abidin.space
+- **Website:** https://abidin06.space
 - **GitHub:** https://github.com/abidinyldz06
 - **Repository:** https://github.com/abidinyldz06/abidin06.space
 

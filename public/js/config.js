@@ -49,7 +49,7 @@ window.APP_CONFIG = {
         repository: 'abidin06.space',
         owner: 'abidinyldz06',
         branch: 'main',
-        customDomain: 'abidin.space'
+        customDomain: 'abidin06.space'
     },
     
     // Analytics (can be added later)
@@ -62,8 +62,8 @@ window.APP_CONFIG = {
     // Social Links
     social: {
         github: 'https://github.com/abidinyldz06',
-        website: 'https://abidin.space',
-        email: 'contact@abidin.space'
+        website: 'https://abidin06.space',
+        email: 'contact@abidin06.space'
     }
 };
 
